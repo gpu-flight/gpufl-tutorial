@@ -1,0 +1,5 @@
+# CMake build outputs
+build/
+
+# GPUFlight trace output
+gpufl-logs/
